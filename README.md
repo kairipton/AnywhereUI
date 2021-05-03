@@ -1,4 +1,4 @@
-# Anywhere UI
+# Anywhere UI (Unity3D)
 ## 기능
 * 프리팹을 기반으로 UI를 카테고리화 하여 분리시켜 사용할 수 있도록 만들어줍니다
 * 프리팹이 많아질 경우 Project창에서 일일히 찾기 어려워질 때를 위해 허접한 커스텀 에디터 제공 (Tools/AnywhereUI/Open Finder)
