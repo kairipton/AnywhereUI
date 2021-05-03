@@ -29,6 +29,8 @@ namespace AUI
   }
 }
 
+
+
 public class OpenAndClose : MonoBehaviour
 {
   void SomeMethod()
