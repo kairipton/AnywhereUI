@@ -14,7 +14,7 @@
 namespace AUI
 {
   // 프리팹의 경로를 AUIPath로 지정
-  [Internal.AUIPath( MyCustomUI" )
+  [Internal.AUIPath( "MyCustomUI" )]
   public class MyCustomUI : Internal.AUIContainer<MyCustomUI>
   {
     public override MyCustomUI OnOpen()
