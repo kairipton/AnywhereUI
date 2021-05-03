@@ -6,7 +6,7 @@
 
 ## 사용법
 간단한 샘플이 준비되어 있으며 (Assets/Scenes/SampleScene.unity), 해당 씬을 플레이 하면 간단한 UI를 불러옵니다.  
-테스트 코드는 Assets/Scripts/Test.cs 에 작성 되어 있습니다.  
+테스트 코드는 Assets/Scripts/Sample/Test.cs 에 작성 되어 있습니다.  
 
 실제 사용시 아래와 같이 작성 해주세요.  
 ```C#
