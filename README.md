@@ -43,6 +43,6 @@ public class OpenAndClose : MonoBehaviour
 
 ## 주의사항
 * Resources.Load를 기반으로 하며, AssetBundle과 AddressableAsset은 지원하지 않습니다.  
-  나중에 제가 필요해지게 된다면 수정될듯.
+  나중에 지원이 필요하게 될때 수정될듯.
 * 새로운 UI 작성시 반드시 지킬 필요는 없으나 AUI 네임스페이스에 넣어주세요.  
 자동완성 기능을 이용해 현재 코드로 사용 가능한 UI를 쉽게 보기 위함입니다.
