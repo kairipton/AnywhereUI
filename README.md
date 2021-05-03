@@ -2,7 +2,8 @@
 ## 기능
 * UI를 카테고리화 하여 분리시켜 사용할 수 있도록 만들어줍니다
 * Scene에 구애받지 않고 어디서든 불러올 수 있습니다.
-* 프리팹이 많아질 경우 Project창에서 일일히 찾기 어려워질 때를 위해 허접한 Finder 제공 (Tools/AnywhereUI/Open Finder)
+* 프리팹이 많아질 경우 Project창에서 일일히 찾기 어려워질 때를 위해 허접한 Finder 제공  
+(Tools/AnywhereUI/Open Finder)
 
 ## 사용법
 간단한 샘플이 준비되어 있으며 (Assets/Scenes/SampleScene.unity), 해당 씬을 플레이 하면 간단한 UI를 불러옵니다.  
@@ -13,7 +14,7 @@
 namespace AUI
 {
   // 프리팹의 경로를 AUIPath로 지정
-  [Internal.AUIPath( MyCustomUI" )]
+  [Internal.AUIPath( MyCustomUI" )
   public class MyCustomUI : Internal.AUIContainer<MyCustomUI>
   {
     public override MyCustomUI OnOpen()
